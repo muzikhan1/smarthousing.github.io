@@ -1,1 +1,1 @@
-# smarthousinh.github.io
+# smarthousing.github.io
